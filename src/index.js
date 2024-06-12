@@ -18,3 +18,5 @@ module.exports = {
    */
   bootstrap(/*{ strapi }*/) {},
 };
+
+// gcloud builds submit --tag us-east1-docker.pkg.dev/build-test-417310/strapi/strapi .
